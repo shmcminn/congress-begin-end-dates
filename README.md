@@ -1,6 +1,6 @@
 # Congress Begin and End Dates
 
-This repo contains a [.csv file](congress-begin-end-dates.csv) with beginning and end dates for each session of Congress, all sourced to [this page](https://www.senate.gov/reference/Sessions/sessionDates.htm) on the Senate's website. 
+This repo contains a [.csv](congress-begin-end-dates.csv) and [.json](congress-begin-end-dates.json) file with beginning and end dates for each session of Congress, all sourced to [this page](https://www.senate.gov/reference/Sessions/sessionDates.htm) on the Senate's website. 
 
 Take note that the dates before 1900 are (for now) written in a different date formate because of the way Excel handles old dates. 
 

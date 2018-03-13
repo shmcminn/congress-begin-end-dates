@@ -1,0 +1,1814 @@
+[
+  {
+    "Congress": 115,
+    "Session": 2,
+    "Begin Date": "1/3/18",
+    "Adjourn Date": ""
+  },
+  {
+    "Congress": 115,
+    "Session": 1,
+    "Begin Date": "1/3/17",
+    "Adjourn Date": "1/3/18"
+  },
+  {
+    "Congress": 114,
+    "Session": 2,
+    "Begin Date": "1/4/16",
+    "Adjourn Date": "1/3/17"
+  },
+  {
+    "Congress": 114,
+    "Session": 1,
+    "Begin Date": "1/6/15",
+    "Adjourn Date": "12/18/15"
+  },
+  {
+    "Congress": 113,
+    "Session": 2,
+    "Begin Date": "1/3/14",
+    "Adjourn Date": "12/16/14"
+  },
+  {
+    "Congress": 113,
+    "Session": 1,
+    "Begin Date": "1/3/13",
+    "Adjourn Date": "1/3/14"
+  },
+  {
+    "Congress": 112,
+    "Session": 2,
+    "Begin Date": "1/3/12",
+    "Adjourn Date": "1/3/13"
+  },
+  {
+    "Congress": 112,
+    "Session": 1,
+    "Begin Date": "1/5/11",
+    "Adjourn Date": "1/3/12"
+  },
+  {
+    "Congress": 111,
+    "Session": 2,
+    "Begin Date": "1/5/10",
+    "Adjourn Date": "12/22/10"
+  },
+  {
+    "Congress": 111,
+    "Session": 1,
+    "Begin Date": "1/6/09",
+    "Adjourn Date": "12/24/09"
+  },
+  {
+    "Congress": 110,
+    "Session": 2,
+    "Begin Date": "1/3/08",
+    "Adjourn Date": "1/3/09"
+  },
+  {
+    "Congress": 110,
+    "Session": 1,
+    "Begin Date": "1/4/07",
+    "Adjourn Date": "12/31/07"
+  },
+  {
+    "Congress": 109,
+    "Session": 2,
+    "Begin Date": "1/3/06",
+    "Adjourn Date": "12/9/06"
+  },
+  {
+    "Congress": 109,
+    "Session": 1,
+    "Begin Date": "1/4/05",
+    "Adjourn Date": "12/22/05"
+  },
+  {
+    "Congress": 108,
+    "Session": 2,
+    "Begin Date": "1/20/04",
+    "Adjourn Date": "12/8/04"
+  },
+  {
+    "Congress": 108,
+    "Session": 1,
+    "Begin Date": "1/7/03",
+    "Adjourn Date": "12/9/03"
+  },
+  {
+    "Congress": 107,
+    "Session": 2,
+    "Begin Date": "1/23/02",
+    "Adjourn Date": "11/22/02"
+  },
+  {
+    "Congress": 107,
+    "Session": 1,
+    "Begin Date": "1/3/01",
+    "Adjourn Date": "12/20/01"
+  },
+  {
+    "Congress": 106,
+    "Session": 2,
+    "Begin Date": "1/24/00",
+    "Adjourn Date": "12/15/00"
+  },
+  {
+    "Congress": 106,
+    "Session": 1,
+    "Begin Date": "1/6/99",
+    "Adjourn Date": "11/22/99"
+  },
+  {
+    "Congress": 105,
+    "Session": 2,
+    "Begin Date": "1/27/98",
+    "Adjourn Date": "12/19/98"
+  },
+  {
+    "Congress": 105,
+    "Session": 1,
+    "Begin Date": "1/7/97",
+    "Adjourn Date": "11/13/97"
+  },
+  {
+    "Congress": 104,
+    "Session": 2,
+    "Begin Date": "1/3/96",
+    "Adjourn Date": "10/4/96"
+  },
+  {
+    "Congress": 104,
+    "Session": 1,
+    "Begin Date": "1/4/95",
+    "Adjourn Date": "1/3/96"
+  },
+  {
+    "Congress": 103,
+    "Session": 2,
+    "Begin Date": "1/25/94",
+    "Adjourn Date": "12/1/94"
+  },
+  {
+    "Congress": 103,
+    "Session": 1,
+    "Begin Date": "1/5/93",
+    "Adjourn Date": "11/26/93"
+  },
+  {
+    "Congress": 102,
+    "Session": 2,
+    "Begin Date": "1/3/92",
+    "Adjourn Date": "10/9/92"
+  },
+  {
+    "Congress": 102,
+    "Session": 1,
+    "Begin Date": "1/3/91",
+    "Adjourn Date": "1/3/92"
+  },
+  {
+    "Congress": 101,
+    "Session": 2,
+    "Begin Date": "1/23/90",
+    "Adjourn Date": "10/28/90"
+  },
+  {
+    "Congress": 101,
+    "Session": 1,
+    "Begin Date": "1/3/89",
+    "Adjourn Date": "11/22/89"
+  },
+  {
+    "Congress": 100,
+    "Session": 2,
+    "Begin Date": "1/25/88",
+    "Adjourn Date": "10/22/88"
+  },
+  {
+    "Congress": 100,
+    "Session": 1,
+    "Begin Date": "1/6/87",
+    "Adjourn Date": "12/22/87"
+  },
+  {
+    "Congress": 99,
+    "Session": 2,
+    "Begin Date": "1/21/86",
+    "Adjourn Date": "10/18/86"
+  },
+  {
+    "Congress": 99,
+    "Session": 1,
+    "Begin Date": "1/3/85",
+    "Adjourn Date": "12/20/85"
+  },
+  {
+    "Congress": 98,
+    "Session": 2,
+    "Begin Date": "1/23/84",
+    "Adjourn Date": "10/12/84"
+  },
+  {
+    "Congress": 98,
+    "Session": 1,
+    "Begin Date": "1/3/83",
+    "Adjourn Date": "11/18/83"
+  },
+  {
+    "Congress": 97,
+    "Session": 2,
+    "Begin Date": "1/25/82",
+    "Adjourn Date": "12/23/82"
+  },
+  {
+    "Congress": 97,
+    "Session": 1,
+    "Begin Date": "1/5/81",
+    "Adjourn Date": "12/16/81"
+  },
+  {
+    "Congress": 96,
+    "Session": 2,
+    "Begin Date": "1/3/80",
+    "Adjourn Date": "12/16/80"
+  },
+  {
+    "Congress": 96,
+    "Session": 1,
+    "Begin Date": "1/15/79",
+    "Adjourn Date": "1/3/80"
+  },
+  {
+    "Congress": 95,
+    "Session": 2,
+    "Begin Date": "1/19/78",
+    "Adjourn Date": "10/15/78"
+  },
+  {
+    "Congress": 95,
+    "Session": 1,
+    "Begin Date": "1/4/77",
+    "Adjourn Date": "12/15/77"
+  },
+  {
+    "Congress": 94,
+    "Session": 2,
+    "Begin Date": "1/19/76",
+    "Adjourn Date": "10/1/76"
+  },
+  {
+    "Congress": 94,
+    "Session": 1,
+    "Begin Date": "1/14/75",
+    "Adjourn Date": "12/19/75"
+  },
+  {
+    "Congress": 93,
+    "Session": 2,
+    "Begin Date": "1/21/74",
+    "Adjourn Date": "12/20/74"
+  },
+  {
+    "Congress": 93,
+    "Session": 1,
+    "Begin Date": "1/3/73",
+    "Adjourn Date": "12/22/73"
+  },
+  {
+    "Congress": 92,
+    "Session": 2,
+    "Begin Date": "1/18/72",
+    "Adjourn Date": "10/18/72"
+  },
+  {
+    "Congress": 92,
+    "Session": 1,
+    "Begin Date": "1/21/71",
+    "Adjourn Date": "12/17/71"
+  },
+  {
+    "Congress": 91,
+    "Session": 2,
+    "Begin Date": "1/19/70",
+    "Adjourn Date": "1/2/71"
+  },
+  {
+    "Congress": 91,
+    "Session": 1,
+    "Begin Date": "1/3/69",
+    "Adjourn Date": "12/23/69"
+  },
+  {
+    "Congress": 90,
+    "Session": 2,
+    "Begin Date": "1/15/68",
+    "Adjourn Date": "10/14/68"
+  },
+  {
+    "Congress": 90,
+    "Session": 1,
+    "Begin Date": "1/10/67",
+    "Adjourn Date": "12/15/67"
+  },
+  {
+    "Congress": 89,
+    "Session": 2,
+    "Begin Date": "1/10/66",
+    "Adjourn Date": "10/22/66"
+  },
+  {
+    "Congress": 89,
+    "Session": 1,
+    "Begin Date": "1/4/65",
+    "Adjourn Date": "10/23/65"
+  },
+  {
+    "Congress": 88,
+    "Session": 2,
+    "Begin Date": "1/7/64",
+    "Adjourn Date": "10/3/64"
+  },
+  {
+    "Congress": 88,
+    "Session": 1,
+    "Begin Date": "1/9/63",
+    "Adjourn Date": "12/30/63"
+  },
+  {
+    "Congress": 87,
+    "Session": 2,
+    "Begin Date": "1/10/62",
+    "Adjourn Date": "10/13/62"
+  },
+  {
+    "Congress": 87,
+    "Session": 1,
+    "Begin Date": "1/3/61",
+    "Adjourn Date": "9/27/61"
+  },
+  {
+    "Congress": 86,
+    "Session": 2,
+    "Begin Date": "1/6/60",
+    "Adjourn Date": "9/1/60"
+  },
+  {
+    "Congress": 86,
+    "Session": 1,
+    "Begin Date": "1/7/59",
+    "Adjourn Date": "9/15/59"
+  },
+  {
+    "Congress": 85,
+    "Session": 2,
+    "Begin Date": "1/7/58",
+    "Adjourn Date": "8/24/58"
+  },
+  {
+    "Congress": 85,
+    "Session": 1,
+    "Begin Date": "1/3/57",
+    "Adjourn Date": "8/30/57"
+  },
+  {
+    "Congress": 84,
+    "Session": 2,
+    "Begin Date": "1/3/56",
+    "Adjourn Date": "7/27/56"
+  },
+  {
+    "Congress": 84,
+    "Session": 1,
+    "Begin Date": "1/5/55",
+    "Adjourn Date": "8/2/55"
+  },
+  {
+    "Congress": 83,
+    "Session": 2,
+    "Begin Date": "1/6/54",
+    "Adjourn Date": "12/2/54"
+  },
+  {
+    "Congress": 83,
+    "Session": 1,
+    "Begin Date": "1/3/53",
+    "Adjourn Date": "8/3/53"
+  },
+  {
+    "Congress": 82,
+    "Session": 2,
+    "Begin Date": "1/8/52",
+    "Adjourn Date": "7/7/52"
+  },
+  {
+    "Congress": 82,
+    "Session": 1,
+    "Begin Date": "1/3/51",
+    "Adjourn Date": "10/20/51"
+  },
+  {
+    "Congress": 81,
+    "Session": 2,
+    "Begin Date": "1/3/50",
+    "Adjourn Date": "1/2/51"
+  },
+  {
+    "Congress": 81,
+    "Session": 1,
+    "Begin Date": "1/3/49",
+    "Adjourn Date": "10/19/49"
+  },
+  {
+    "Congress": 80,
+    "Session": 2,
+    "Begin Date": "1/6/48",
+    "Adjourn Date": "12/31/48"
+  },
+  {
+    "Congress": 80,
+    "Session": 1,
+    "Begin Date": "1/3/47",
+    "Adjourn Date": "12/19/47"
+  },
+  {
+    "Congress": 79,
+    "Session": 2,
+    "Begin Date": "1/14/46",
+    "Adjourn Date": "8/2/46"
+  },
+  {
+    "Congress": 79,
+    "Session": 1,
+    "Begin Date": "1/3/45",
+    "Adjourn Date": "12/21/45"
+  },
+  {
+    "Congress": 78,
+    "Session": 2,
+    "Begin Date": "1/10/44",
+    "Adjourn Date": "12/19/44"
+  },
+  {
+    "Congress": 78,
+    "Session": 1,
+    "Begin Date": "1/6/43",
+    "Adjourn Date": "12/21/43"
+  },
+  {
+    "Congress": 77,
+    "Session": 2,
+    "Begin Date": "1/5/42",
+    "Adjourn Date": "12/16/42"
+  },
+  {
+    "Congress": 77,
+    "Session": 1,
+    "Begin Date": "1/3/41",
+    "Adjourn Date": "1/2/42"
+  },
+  {
+    "Congress": 76,
+    "Session": 3,
+    "Begin Date": "1/3/40",
+    "Adjourn Date": "1/3/41"
+  },
+  {
+    "Congress": 76,
+    "Session": 2,
+    "Begin Date": "9/21/39",
+    "Adjourn Date": "11/3/39"
+  },
+  {
+    "Congress": 76,
+    "Session": 1,
+    "Begin Date": "1/3/39",
+    "Adjourn Date": "8/5/39"
+  },
+  {
+    "Congress": 75,
+    "Session": 3,
+    "Begin Date": "1/3/38",
+    "Adjourn Date": "6/16/38"
+  },
+  {
+    "Congress": 75,
+    "Session": 2,
+    "Begin Date": "11/15/37",
+    "Adjourn Date": "12/21/37"
+  },
+  {
+    "Congress": 75,
+    "Session": 1,
+    "Begin Date": "1/5/37",
+    "Adjourn Date": "8/21/37"
+  },
+  {
+    "Congress": 74,
+    "Session": 2,
+    "Begin Date": "1/3/36",
+    "Adjourn Date": "6/20/36"
+  },
+  {
+    "Congress": 74,
+    "Session": 1,
+    "Begin Date": "1/3/35",
+    "Adjourn Date": "8/26/35"
+  },
+  {
+    "Congress": 73,
+    "Session": 2,
+    "Begin Date": "1/3/34",
+    "Adjourn Date": "6/18/34"
+  },
+  {
+    "Congress": 73,
+    "Session": 1,
+    "Begin Date": "3/9/33",
+    "Adjourn Date": "6/15/33"
+  },
+  {
+    "Congress": 73,
+    "Session": "S",
+    "Begin Date": "3/4/33",
+    "Adjourn Date": "3/6/33"
+  },
+  {
+    "Congress": 72,
+    "Session": 2,
+    "Begin Date": "12/5/32",
+    "Adjourn Date": "3/3/33"
+  },
+  {
+    "Congress": 72,
+    "Session": 1,
+    "Begin Date": "12/7/31",
+    "Adjourn Date": "7/16/32"
+  },
+  {
+    "Congress": 71,
+    "Session": 3,
+    "Begin Date": "12/1/30",
+    "Adjourn Date": "3/3/31"
+  },
+  {
+    "Congress": 71,
+    "Session": "S",
+    "Begin Date": "7/7/30",
+    "Adjourn Date": "7/21/30"
+  },
+  {
+    "Congress": 71,
+    "Session": 2,
+    "Begin Date": "12/2/29",
+    "Adjourn Date": "7/3/30"
+  },
+  {
+    "Congress": 71,
+    "Session": 1,
+    "Begin Date": "4/15/29",
+    "Adjourn Date": "11/22/29"
+  },
+  {
+    "Congress": 71,
+    "Session": "S",
+    "Begin Date": "3/4/29",
+    "Adjourn Date": "3/5/29"
+  },
+  {
+    "Congress": 70,
+    "Session": 2,
+    "Begin Date": "12/3/28",
+    "Adjourn Date": "3/3/29"
+  },
+  {
+    "Congress": 70,
+    "Session": 1,
+    "Begin Date": "12/5/27",
+    "Adjourn Date": "5/29/28"
+  },
+  {
+    "Congress": 69,
+    "Session": 2,
+    "Begin Date": "12/6/26",
+    "Adjourn Date": "3/4/27"
+  },
+  {
+    "Congress": 69,
+    "Session": 1,
+    "Begin Date": "12/7/25",
+    "Adjourn Date": "7/3/26"
+  },
+  {
+    "Congress": 69,
+    "Session": "S",
+    "Begin Date": "3/4/25",
+    "Adjourn Date": "3/18/25"
+  },
+  {
+    "Congress": 68,
+    "Session": 2,
+    "Begin Date": "12/1/24",
+    "Adjourn Date": "3/3/25"
+  },
+  {
+    "Congress": 68,
+    "Session": 1,
+    "Begin Date": "12/3/23",
+    "Adjourn Date": "6/7/24"
+  },
+  {
+    "Congress": 67,
+    "Session": 4,
+    "Begin Date": "12/4/22",
+    "Adjourn Date": "3/3/23"
+  },
+  {
+    "Congress": 67,
+    "Session": 3,
+    "Begin Date": "11/20/22",
+    "Adjourn Date": "12/4/22"
+  },
+  {
+    "Congress": 67,
+    "Session": 2,
+    "Begin Date": "12/5/21",
+    "Adjourn Date": "9/22/22"
+  },
+  {
+    "Congress": 67,
+    "Session": 1,
+    "Begin Date": "4/11/21",
+    "Adjourn Date": "11/23/21"
+  },
+  {
+    "Congress": 67,
+    "Session": "S",
+    "Begin Date": "3/4/21",
+    "Adjourn Date": "3/15/21"
+  },
+  {
+    "Congress": 66,
+    "Session": 3,
+    "Begin Date": "12/6/20",
+    "Adjourn Date": "3/3/21"
+  },
+  {
+    "Congress": 66,
+    "Session": 2,
+    "Begin Date": "12/1/19",
+    "Adjourn Date": "6/5/20"
+  },
+  {
+    "Congress": 66,
+    "Session": 1,
+    "Begin Date": "5/19/19",
+    "Adjourn Date": "11/19/19"
+  },
+  {
+    "Congress": 65,
+    "Session": 3,
+    "Begin Date": "12/2/18",
+    "Adjourn Date": "3/3/19"
+  },
+  {
+    "Congress": 65,
+    "Session": 2,
+    "Begin Date": "12/3/17",
+    "Adjourn Date": "11/21/18"
+  },
+  {
+    "Congress": 65,
+    "Session": 1,
+    "Begin Date": "4/2/17",
+    "Adjourn Date": "10/6/17"
+  },
+  {
+    "Congress": 65,
+    "Session": "S",
+    "Begin Date": "3/5/17",
+    "Adjourn Date": "3/16/17"
+  },
+  {
+    "Congress": 64,
+    "Session": 2,
+    "Begin Date": "12/4/16",
+    "Adjourn Date": "3/3/17"
+  },
+  {
+    "Congress": 64,
+    "Session": 1,
+    "Begin Date": "12/6/15",
+    "Adjourn Date": "9/8/16"
+  },
+  {
+    "Congress": 63,
+    "Session": 3,
+    "Begin Date": "12/7/14",
+    "Adjourn Date": "3/3/15"
+  },
+  {
+    "Congress": 63,
+    "Session": 2,
+    "Begin Date": "12/1/13",
+    "Adjourn Date": "10/24/14"
+  },
+  {
+    "Congress": 63,
+    "Session": 1,
+    "Begin Date": "4/7/13",
+    "Adjourn Date": "12/1/13"
+  },
+  {
+    "Congress": 63,
+    "Session": "S",
+    "Begin Date": "3/4/13",
+    "Adjourn Date": "3/17/13"
+  },
+  {
+    "Congress": 62,
+    "Session": 3,
+    "Begin Date": "12/2/12",
+    "Adjourn Date": "3/3/13"
+  },
+  {
+    "Congress": 62,
+    "Session": 2,
+    "Begin Date": "12/4/11",
+    "Adjourn Date": "8/26/12"
+  },
+  {
+    "Congress": 62,
+    "Session": 1,
+    "Begin Date": "4/4/11",
+    "Adjourn Date": "8/22/11"
+  },
+  {
+    "Congress": 61,
+    "Session": 3,
+    "Begin Date": "12/5/10",
+    "Adjourn Date": "3/3/11"
+  },
+  {
+    "Congress": 61,
+    "Session": 2,
+    "Begin Date": "12/6/09",
+    "Adjourn Date": "6/25/10"
+  },
+  {
+    "Congress": 61,
+    "Session": 1,
+    "Begin Date": "3/15/09",
+    "Adjourn Date": "8/5/09"
+  },
+  {
+    "Congress": 61,
+    "Session": "S",
+    "Begin Date": "3/4/09",
+    "Adjourn Date": "3/6/09"
+  },
+  {
+    "Congress": 60,
+    "Session": 2,
+    "Begin Date": "12/7/08",
+    "Adjourn Date": "3/3/09"
+  },
+  {
+    "Congress": 60,
+    "Session": 1,
+    "Begin Date": "12/2/07",
+    "Adjourn Date": "5/30/08"
+  },
+  {
+    "Congress": 59,
+    "Session": 2,
+    "Begin Date": "12/3/06",
+    "Adjourn Date": "3/3/07"
+  },
+  {
+    "Congress": 59,
+    "Session": 1,
+    "Begin Date": "12/4/05",
+    "Adjourn Date": "6/30/06"
+  },
+  {
+    "Congress": 59,
+    "Session": "S",
+    "Begin Date": "3/4/05",
+    "Adjourn Date": "3/18/05"
+  },
+  {
+    "Congress": 58,
+    "Session": 3,
+    "Begin Date": "12/5/05",
+    "Adjourn Date": "3/3/05"
+  },
+  {
+    "Congress": 58,
+    "Session": 2,
+    "Begin Date": "12/7/03",
+    "Adjourn Date": "4/28/04"
+  },
+  {
+    "Congress": 58,
+    "Session": 1,
+    "Begin Date": "11/9/03",
+    "Adjourn Date": "12/7/03"
+  },
+  {
+    "Congress": 58,
+    "Session": "S",
+    "Begin Date": "3/5/03",
+    "Adjourn Date": "3/19/03"
+  },
+  {
+    "Congress": 57,
+    "Session": 2,
+    "Begin Date": "12/1/02",
+    "Adjourn Date": "3/3/03"
+  },
+  {
+    "Congress": 57,
+    "Session": 1,
+    "Begin Date": "12/2/01",
+    "Adjourn Date": "7/1/02"
+  },
+  {
+    "Congress": 57,
+    "Session": "S",
+    "Begin Date": "3/4/01",
+    "Adjourn Date": "3/9/01"
+  },
+  {
+    "Congress": 56,
+    "Session": 2,
+    "Begin Date": "12/3/00",
+    "Adjourn Date": "3/3/01"
+  },
+  {
+    "Congress": 56,
+    "Session": 1,
+    "Begin Date": "Dec 4, 1899",
+    "Adjourn Date": "6/7/00"
+  },
+  {
+    "Congress": 55,
+    "Session": 3,
+    "Begin Date": "Dec 5, 1898",
+    "Adjourn Date": "Mar 3, 1899"
+  },
+  {
+    "Congress": 55,
+    "Session": 2,
+    "Begin Date": "Dec 6, 1897",
+    "Adjourn Date": "Jul 8, 1898"
+  },
+  {
+    "Congress": 55,
+    "Session": 1,
+    "Begin Date": "Mar 15, 1897",
+    "Adjourn Date": "Jul 24, 1897"
+  },
+  {
+    "Congress": 55,
+    "Session": "S",
+    "Begin Date": "Mar 4, 1897",
+    "Adjourn Date": "Mar 10, 1897"
+  },
+  {
+    "Congress": 54,
+    "Session": 2,
+    "Begin Date": "Dec 7, 1896",
+    "Adjourn Date": "Mar 3, 1897"
+  },
+  {
+    "Congress": 54,
+    "Session": 1,
+    "Begin Date": "Dec 2, 1895",
+    "Adjourn Date": "Jun 11, 1896"
+  },
+  {
+    "Congress": 53,
+    "Session": 3,
+    "Begin Date": "Dec 3, 1894",
+    "Adjourn Date": "Mar 3, 1895"
+  },
+  {
+    "Congress": 53,
+    "Session": 2,
+    "Begin Date": "Dec 4, 1893",
+    "Adjourn Date": "Aug 28, 1894"
+  },
+  {
+    "Congress": 53,
+    "Session": 1,
+    "Begin Date": "Aug 7, 1893",
+    "Adjourn Date": "Nov 3, 1893"
+  },
+  {
+    "Congress": 53,
+    "Session": "S",
+    "Begin Date": "Mar 4, 1893",
+    "Adjourn Date": "Apr 15, 1893"
+  },
+  {
+    "Congress": 52,
+    "Session": 2,
+    "Begin Date": "Dec 5, 1892",
+    "Adjourn Date": "Mar 3, 1893"
+  },
+  {
+    "Congress": 52,
+    "Session": 1,
+    "Begin Date": "Dec 7, 1891",
+    "Adjourn Date": "Aug 5, 1892"
+  },
+  {
+    "Congress": 51,
+    "Session": 2,
+    "Begin Date": "Dec 1, 1890",
+    "Adjourn Date": "Mar 3, 1891"
+  },
+  {
+    "Congress": 51,
+    "Session": 1,
+    "Begin Date": "Dec 2, 1889",
+    "Adjourn Date": "Oct 1, 1890"
+  },
+  {
+    "Congress": 51,
+    "Session": "S",
+    "Begin Date": "Mar 4, 1889",
+    "Adjourn Date": "Apr 2, 1889"
+  },
+  {
+    "Congress": 50,
+    "Session": 2,
+    "Begin Date": "Dec 3, 1888",
+    "Adjourn Date": "Mar 3, 1889"
+  },
+  {
+    "Congress": 50,
+    "Session": 1,
+    "Begin Date": "Dec 5, 1887",
+    "Adjourn Date": "Oct 20, 1888"
+  },
+  {
+    "Congress": 49,
+    "Session": 2,
+    "Begin Date": "Dec 6, 1886",
+    "Adjourn Date": "Mar 3, 1887"
+  },
+  {
+    "Congress": 49,
+    "Session": 1,
+    "Begin Date": "Dec 7, 1885",
+    "Adjourn Date": "Aug 5, 1886"
+  },
+  {
+    "Congress": 49,
+    "Session": "S",
+    "Begin Date": "Mar 4, 1885",
+    "Adjourn Date": "Apr 2, 1885"
+  },
+  {
+    "Congress": 48,
+    "Session": 2,
+    "Begin Date": "Dec 1, 1884",
+    "Adjourn Date": "Mar 3, 1885"
+  },
+  {
+    "Congress": 48,
+    "Session": 1,
+    "Begin Date": "Dec 3, 1883",
+    "Adjourn Date": "Jul 7, 1884"
+  },
+  {
+    "Congress": 47,
+    "Session": 2,
+    "Begin Date": "Dec 4, 1882",
+    "Adjourn Date": "Mar 3, 1883"
+  },
+  {
+    "Congress": 47,
+    "Session": 1,
+    "Begin Date": "Dec 5, 1881",
+    "Adjourn Date": "Aug 8, 1882"
+  },
+  {
+    "Congress": 47,
+    "Session": "S",
+    "Begin Date": "Oct 10, 1881",
+    "Adjourn Date": "Oct 29, 1881"
+  },
+  {
+    "Congress": 47,
+    "Session": "S",
+    "Begin Date": "Mar 4, 1881",
+    "Adjourn Date": "May 20, 1881"
+  },
+  {
+    "Congress": 46,
+    "Session": 3,
+    "Begin Date": "Dec 6, 1880",
+    "Adjourn Date": "Mar 3, 1881"
+  },
+  {
+    "Congress": 46,
+    "Session": 2,
+    "Begin Date": "Dec 1, 1879",
+    "Adjourn Date": "Jun 16, 1880"
+  },
+  {
+    "Congress": 46,
+    "Session": 1,
+    "Begin Date": "Mar 18, 1879",
+    "Adjourn Date": "Jul 1, 1879"
+  },
+  {
+    "Congress": 45,
+    "Session": 3,
+    "Begin Date": "Dec 2, 1878",
+    "Adjourn Date": "Mar 3, 1879"
+  },
+  {
+    "Congress": 45,
+    "Session": 2,
+    "Begin Date": "Dec 3, 1877",
+    "Adjourn Date": "Jun 20, 1878"
+  },
+  {
+    "Congress": 45,
+    "Session": 1,
+    "Begin Date": "Oct 15, 1877",
+    "Adjourn Date": "Dec 3, 1877"
+  },
+  {
+    "Congress": 45,
+    "Session": "S",
+    "Begin Date": "Mar 5, 1877",
+    "Adjourn Date": "Mar 17, 1877"
+  },
+  {
+    "Congress": 44,
+    "Session": 2,
+    "Begin Date": "Dec 4, 1876",
+    "Adjourn Date": "Mar 3, 1877"
+  },
+  {
+    "Congress": 44,
+    "Session": 1,
+    "Begin Date": "Dec 6, 1875",
+    "Adjourn Date": "Aug 15, 1876"
+  },
+  {
+    "Congress": 44,
+    "Session": "S",
+    "Begin Date": "Mar 5, 1875",
+    "Adjourn Date": "Mar 24, 1875"
+  },
+  {
+    "Congress": 43,
+    "Session": 2,
+    "Begin Date": "Dec 7, 1874",
+    "Adjourn Date": "Mar 3, 1875"
+  },
+  {
+    "Congress": 43,
+    "Session": 1,
+    "Begin Date": "Dec 1, 1873",
+    "Adjourn Date": "Jun 23, 1874"
+  },
+  {
+    "Congress": 43,
+    "Session": "S",
+    "Begin Date": "Mar 4, 1873",
+    "Adjourn Date": "Mar 26, 1873"
+  },
+  {
+    "Congress": 42,
+    "Session": 3,
+    "Begin Date": "Dec 2, 1872",
+    "Adjourn Date": "Mar 3, 1873"
+  },
+  {
+    "Congress": 42,
+    "Session": 2,
+    "Begin Date": "Dec 4, 1871",
+    "Adjourn Date": "Jun 10, 1872"
+  },
+  {
+    "Congress": 42,
+    "Session": "S",
+    "Begin Date": "May 10, 1871",
+    "Adjourn Date": "May 27, 1871"
+  },
+  {
+    "Congress": 42,
+    "Session": 1,
+    "Begin Date": "Mar 4, 1871",
+    "Adjourn Date": "Apr 20, 1871"
+  },
+  {
+    "Congress": 41,
+    "Session": 3,
+    "Begin Date": "Dec 5, 1870",
+    "Adjourn Date": "Mar 3, 1871"
+  },
+  {
+    "Congress": 41,
+    "Session": 2,
+    "Begin Date": "Dec 6, 1869",
+    "Adjourn Date": "Jul 15, 1870"
+  },
+  {
+    "Congress": 41,
+    "Session": "S",
+    "Begin Date": "Apr 12, 1869",
+    "Adjourn Date": "Apr 22, 1869"
+  },
+  {
+    "Congress": 41,
+    "Session": 1,
+    "Begin Date": "Mar 4, 1869",
+    "Adjourn Date": "Apr 10, 1869"
+  },
+  {
+    "Congress": 40,
+    "Session": 3,
+    "Begin Date": "Dec 7, 1868",
+    "Adjourn Date": "Mar 3, 1869"
+  },
+  {
+    "Congress": 40,
+    "Session": 2,
+    "Begin Date": "Dec 2, 1867",
+    "Adjourn Date": "Nov 10, 1868"
+  },
+  {
+    "Congress": 40,
+    "Session": "S",
+    "Begin Date": "Apr 1, 1867",
+    "Adjourn Date": "Apr 20, 1867"
+  },
+  {
+    "Congress": 40,
+    "Session": 1,
+    "Begin Date": "Mar 4, 1867",
+    "Adjourn Date": "Dec 1, 1867"
+  },
+  {
+    "Congress": 39,
+    "Session": 2,
+    "Begin Date": "Dec 3, 1866",
+    "Adjourn Date": "Mar 3, 1867"
+  },
+  {
+    "Congress": 39,
+    "Session": 1,
+    "Begin Date": "Dec 4, 1865",
+    "Adjourn Date": "Jul 28, 1866"
+  },
+  {
+    "Congress": 39,
+    "Session": "S",
+    "Begin Date": "Mar 4, 1865",
+    "Adjourn Date": "Mar 11, 1865"
+  },
+  {
+    "Congress": 38,
+    "Session": 2,
+    "Begin Date": "Dec 5, 1864",
+    "Adjourn Date": "Mar 3, 1865"
+  },
+  {
+    "Congress": 38,
+    "Session": 1,
+    "Begin Date": "Dec 7, 1863",
+    "Adjourn Date": "Jul 4, 1864"
+  },
+  {
+    "Congress": 38,
+    "Session": "S",
+    "Begin Date": "Mar 4, 1863",
+    "Adjourn Date": "Mar 14, 1863"
+  },
+  {
+    "Congress": 37,
+    "Session": 3,
+    "Begin Date": "Dec 1, 1862",
+    "Adjourn Date": "Mar 3, 1863"
+  },
+  {
+    "Congress": 37,
+    "Session": 2,
+    "Begin Date": "Dec 2, 1861",
+    "Adjourn Date": "Jul 17, 1862"
+  },
+  {
+    "Congress": 37,
+    "Session": 1,
+    "Begin Date": "Jul 4, 1861",
+    "Adjourn Date": "Aug 6, 1861"
+  },
+  {
+    "Congress": 37,
+    "Session": "S",
+    "Begin Date": "Mar 4, 1861",
+    "Adjourn Date": "Mar 28, 1861"
+  },
+  {
+    "Congress": 36,
+    "Session": 2,
+    "Begin Date": "Dec 3, 1860",
+    "Adjourn Date": "Mar 3, 1861"
+  },
+  {
+    "Congress": 36,
+    "Session": "S",
+    "Begin Date": "Jun 26, 1860",
+    "Adjourn Date": "Jun 28, 1860"
+  },
+  {
+    "Congress": 36,
+    "Session": 1,
+    "Begin Date": "Dec 5, 1859",
+    "Adjourn Date": "Jun 25, 1860"
+  },
+  {
+    "Congress": 36,
+    "Session": "S",
+    "Begin Date": "Mar 4, 1859",
+    "Adjourn Date": "Mar 10, 1859"
+  },
+  {
+    "Congress": 35,
+    "Session": 2,
+    "Begin Date": "Dec 6, 1858",
+    "Adjourn Date": "Mar 3, 1859"
+  },
+  {
+    "Congress": 35,
+    "Session": "S",
+    "Begin Date": "Jun 15, 1858",
+    "Adjourn Date": "Jun 16, 1858"
+  },
+  {
+    "Congress": 35,
+    "Session": 1,
+    "Begin Date": "Dec 7, 1857",
+    "Adjourn Date": "Jun 14, 1858"
+  },
+  {
+    "Congress": 35,
+    "Session": "S",
+    "Begin Date": "Mar 4, 1857",
+    "Adjourn Date": "Mar 14, 1857"
+  },
+  {
+    "Congress": 34,
+    "Session": 3,
+    "Begin Date": "Dec 1, 1856",
+    "Adjourn Date": "Mar 3, 1857"
+  },
+  {
+    "Congress": 34,
+    "Session": 2,
+    "Begin Date": "Aug 21, 1856",
+    "Adjourn Date": "Aug 30, 1856"
+  },
+  {
+    "Congress": 34,
+    "Session": 1,
+    "Begin Date": "Dec 3, 1855",
+    "Adjourn Date": "Aug 18, 1856"
+  },
+  {
+    "Congress": 33,
+    "Session": 2,
+    "Begin Date": "Dec 4, 1854",
+    "Adjourn Date": "Mar 3, 1855"
+  },
+  {
+    "Congress": 33,
+    "Session": 1,
+    "Begin Date": "Dec 5, 1853",
+    "Adjourn Date": "Aug 7, 1854"
+  },
+  {
+    "Congress": 33,
+    "Session": "S",
+    "Begin Date": "Mar 4, 1853",
+    "Adjourn Date": "Apr 11, 1853"
+  },
+  {
+    "Congress": 32,
+    "Session": 2,
+    "Begin Date": "Dec 6, 1852",
+    "Adjourn Date": "Mar 3, 1853"
+  },
+  {
+    "Congress": 32,
+    "Session": 1,
+    "Begin Date": "Dec 1, 1851",
+    "Adjourn Date": "Aug 31, 1852"
+  },
+  {
+    "Congress": 32,
+    "Session": "S",
+    "Begin Date": "Mar 4, 1851",
+    "Adjourn Date": "Mar 13, 1851"
+  },
+  {
+    "Congress": 31,
+    "Session": 2,
+    "Begin Date": "Dec 2, 1850",
+    "Adjourn Date": "Mar 3, 1851"
+  },
+  {
+    "Congress": 31,
+    "Session": 1,
+    "Begin Date": "Dec 3, 1849",
+    "Adjourn Date": "Sep 30, 1850"
+  },
+  {
+    "Congress": 31,
+    "Session": "S",
+    "Begin Date": "Mar 5, 1849",
+    "Adjourn Date": "Mar 23, 1849"
+  },
+  {
+    "Congress": 30,
+    "Session": 2,
+    "Begin Date": "Dec 4, 1848",
+    "Adjourn Date": "Mar 3, 1849"
+  },
+  {
+    "Congress": 30,
+    "Session": 1,
+    "Begin Date": "Dec 6, 1847",
+    "Adjourn Date": "Aug 14, 1848"
+  },
+  {
+    "Congress": 29,
+    "Session": 2,
+    "Begin Date": "Dec 7, 1846",
+    "Adjourn Date": "Mar 3, 1847"
+  },
+  {
+    "Congress": 29,
+    "Session": 1,
+    "Begin Date": "Dec 1, 1845",
+    "Adjourn Date": "Aug 10, 1846"
+  },
+  {
+    "Congress": 29,
+    "Session": "S",
+    "Begin Date": "Mar 4, 1845",
+    "Adjourn Date": "Mar 20, 1845"
+  },
+  {
+    "Congress": 28,
+    "Session": 2,
+    "Begin Date": "Dec 2, 1844",
+    "Adjourn Date": "Mar 3, 1845"
+  },
+  {
+    "Congress": 28,
+    "Session": 1,
+    "Begin Date": "Dec 4, 1843",
+    "Adjourn Date": "Jun 17, 1844"
+  },
+  {
+    "Congress": 27,
+    "Session": 3,
+    "Begin Date": "Dec 5, 1842",
+    "Adjourn Date": "Mar 3, 1843"
+  },
+  {
+    "Congress": 27,
+    "Session": 2,
+    "Begin Date": "Dec 6, 1841",
+    "Adjourn Date": "Aug 31, 1842"
+  },
+  {
+    "Congress": 27,
+    "Session": 1,
+    "Begin Date": "May 31, 1841",
+    "Adjourn Date": "Sep 13, 1841"
+  },
+  {
+    "Congress": 27,
+    "Session": "S",
+    "Begin Date": "Mar 4, 1841",
+    "Adjourn Date": "Mar 15, 1841"
+  },
+  {
+    "Congress": 26,
+    "Session": 2,
+    "Begin Date": "Dec 7, 1840",
+    "Adjourn Date": "Mar 3, 1841"
+  },
+  {
+    "Congress": 26,
+    "Session": 1,
+    "Begin Date": "Dec 2, 1839",
+    "Adjourn Date": "Jul 21, 1840"
+  },
+  {
+    "Congress": 25,
+    "Session": 3,
+    "Begin Date": "Dec 3, 1838",
+    "Adjourn Date": "Mar 3, 1839"
+  },
+  {
+    "Congress": 25,
+    "Session": 2,
+    "Begin Date": "Dec 4, 1837",
+    "Adjourn Date": "Jul 9, 1838"
+  },
+  {
+    "Congress": 25,
+    "Session": 1,
+    "Begin Date": "Sep 4, 1837",
+    "Adjourn Date": "Oct 16, 1837"
+  },
+  {
+    "Congress": 25,
+    "Session": "S",
+    "Begin Date": "Mar 4, 1837",
+    "Adjourn Date": "Mar 10, 1837"
+  },
+  {
+    "Congress": 24,
+    "Session": 2,
+    "Begin Date": "Dec 5, 1836",
+    "Adjourn Date": "Mar 3, 1837"
+  },
+  {
+    "Congress": 24,
+    "Session": 1,
+    "Begin Date": "Dec 7, 1835",
+    "Adjourn Date": "Jul 4, 1836"
+  },
+  {
+    "Congress": 23,
+    "Session": 2,
+    "Begin Date": "Dec 1, 1834",
+    "Adjourn Date": "Mar 3, 1835"
+  },
+  {
+    "Congress": 23,
+    "Session": 1,
+    "Begin Date": "Dec 2, 1833",
+    "Adjourn Date": "Jun 30, 1834"
+  },
+  {
+    "Congress": 22,
+    "Session": 2,
+    "Begin Date": "Dec 3, 1832",
+    "Adjourn Date": "Mar 2, 1833"
+  },
+  {
+    "Congress": 22,
+    "Session": 1,
+    "Begin Date": "Dec 5, 1831",
+    "Adjourn Date": "Jul 16, 1832"
+  },
+  {
+    "Congress": 21,
+    "Session": 2,
+    "Begin Date": "Dec 6, 1830",
+    "Adjourn Date": "Mar 3, 1831"
+  },
+  {
+    "Congress": 21,
+    "Session": 1,
+    "Begin Date": "Dec 7, 1829",
+    "Adjourn Date": "May 31, 1830"
+  },
+  {
+    "Congress": 21,
+    "Session": "S",
+    "Begin Date": "Mar 4, 1829",
+    "Adjourn Date": "Mar 17, 1829"
+  },
+  {
+    "Congress": 20,
+    "Session": 2,
+    "Begin Date": "Dec 1, 1828",
+    "Adjourn Date": "Mar 3, 1829"
+  },
+  {
+    "Congress": 20,
+    "Session": 1,
+    "Begin Date": "Dec 3, 1827",
+    "Adjourn Date": "May 26, 1828"
+  },
+  {
+    "Congress": 19,
+    "Session": 2,
+    "Begin Date": "Dec 4, 1826",
+    "Adjourn Date": "Mar 3, 1827"
+  },
+  {
+    "Congress": 19,
+    "Session": 1,
+    "Begin Date": "Dec 5, 1825",
+    "Adjourn Date": "May 22, 1826"
+  },
+  {
+    "Congress": 19,
+    "Session": "S",
+    "Begin Date": "Mar 4, 1825",
+    "Adjourn Date": "Mar 9, 1825"
+  },
+  {
+    "Congress": 18,
+    "Session": 2,
+    "Begin Date": "Dec 6, 1824",
+    "Adjourn Date": "Mar 3, 1825"
+  },
+  {
+    "Congress": 18,
+    "Session": 1,
+    "Begin Date": "Dec 1, 1823",
+    "Adjourn Date": "May 27, 1824"
+  },
+  {
+    "Congress": 17,
+    "Session": 2,
+    "Begin Date": "Dec 2, 1822",
+    "Adjourn Date": "Mar 3, 1823"
+  },
+  {
+    "Congress": 17,
+    "Session": 1,
+    "Begin Date": "Dec 3, 1821",
+    "Adjourn Date": "May 8, 1822"
+  },
+  {
+    "Congress": 16,
+    "Session": 2,
+    "Begin Date": "Nov 13, 1820",
+    "Adjourn Date": "Mar 3, 1821"
+  },
+  {
+    "Congress": 16,
+    "Session": 1,
+    "Begin Date": "Dec 6, 1819",
+    "Adjourn Date": "May 15, 1820"
+  },
+  {
+    "Congress": 15,
+    "Session": 2,
+    "Begin Date": "Nov 16, 1818",
+    "Adjourn Date": "Mar 3, 1819"
+  },
+  {
+    "Congress": 15,
+    "Session": 1,
+    "Begin Date": "Dec 1, 1817",
+    "Adjourn Date": "Apr 20, 1818"
+  },
+  {
+    "Congress": 15,
+    "Session": "S",
+    "Begin Date": "Mar 4, 1817",
+    "Adjourn Date": "Mar 6, 1817"
+  },
+  {
+    "Congress": 14,
+    "Session": 2,
+    "Begin Date": "Dec 2, 1816",
+    "Adjourn Date": "Mar 3, 1817"
+  },
+  {
+    "Congress": 14,
+    "Session": 1,
+    "Begin Date": "Dec 4, 1815",
+    "Adjourn Date": "Apr 30, 1816"
+  },
+  {
+    "Congress": 13,
+    "Session": 3,
+    "Begin Date": "Sep 19, 1814",
+    "Adjourn Date": "Mar 3, 1815"
+  },
+  {
+    "Congress": 13,
+    "Session": 2,
+    "Begin Date": "Dec 6, 1813",
+    "Adjourn Date": "Apr 18, 1814"
+  },
+  {
+    "Congress": 13,
+    "Session": 1,
+    "Begin Date": "May 24, 1813",
+    "Adjourn Date": "Aug 2, 1813"
+  },
+  {
+    "Congress": 12,
+    "Session": 2,
+    "Begin Date": "Nov 2, 1812",
+    "Adjourn Date": "Mar 3, 1813"
+  },
+  {
+    "Congress": 12,
+    "Session": 1,
+    "Begin Date": "Nov 4, 1811",
+    "Adjourn Date": "Jul 6, 1812"
+  },
+  {
+    "Congress": 11,
+    "Session": 3,
+    "Begin Date": "Dec 3, 1810",
+    "Adjourn Date": "Mar 3, 1811"
+  },
+  {
+    "Congress": 11,
+    "Session": 2,
+    "Begin Date": "Nov 27, 1809",
+    "Adjourn Date": "May 1, 1810"
+  },
+  {
+    "Congress": 11,
+    "Session": 1,
+    "Begin Date": "May 22, 1809",
+    "Adjourn Date": "Jun 28, 1809"
+  },
+  {
+    "Congress": 11,
+    "Session": "S",
+    "Begin Date": "Mar 4, 1809",
+    "Adjourn Date": "Mar 7, 1809"
+  },
+  {
+    "Congress": 10,
+    "Session": 2,
+    "Begin Date": "Nov 7, 1808",
+    "Adjourn Date": "Mar 3, 1809"
+  },
+  {
+    "Congress": 10,
+    "Session": 1,
+    "Begin Date": "Oct 26, 1807",
+    "Adjourn Date": "Apr 25, 1808"
+  },
+  {
+    "Congress": 9,
+    "Session": 2,
+    "Begin Date": "Dec 1, 1806",
+    "Adjourn Date": "Mar 3, 1807"
+  },
+  {
+    "Congress": 9,
+    "Session": 1,
+    "Begin Date": "Dec 2, 1805",
+    "Adjourn Date": "Apr 21, 1806"
+  },
+  {
+    "Congress": 8,
+    "Session": 2,
+    "Begin Date": "Nov 5, 1804",
+    "Adjourn Date": "Mar 3, 1805"
+  },
+  {
+    "Congress": 8,
+    "Session": 1,
+    "Begin Date": "Oct 17, 1803",
+    "Adjourn Date": "Mar 27, 1804"
+  },
+  {
+    "Congress": 7,
+    "Session": 2,
+    "Begin Date": "Dec 6, 1802",
+    "Adjourn Date": "Mar 3, 1803"
+  },
+  {
+    "Congress": 7,
+    "Session": 1,
+    "Begin Date": "Dec 7, 1801",
+    "Adjourn Date": "May 3, 1802"
+  },
+  {
+    "Congress": 7,
+    "Session": "S",
+    "Begin Date": "Mar 4, 1801",
+    "Adjourn Date": "Mar 5, 1801"
+  },
+  {
+    "Congress": 6,
+    "Session": 2,
+    "Begin Date": "Nov 17, 1800",
+    "Adjourn Date": "Mar 3, 1801"
+  },
+  {
+    "Congress": 6,
+    "Session": 1,
+    "Begin Date": "Dec 2, 1799",
+    "Adjourn Date": "May 14, 1800"
+  },
+  {
+    "Congress": 5,
+    "Session": 3,
+    "Begin Date": "Dec 3, 1798",
+    "Adjourn Date": "Mar 3, 1799"
+  },
+  {
+    "Congress": 5,
+    "Session": 2,
+    "Begin Date": "Nov 13, 1797",
+    "Adjourn Date": "Jul 16, 1798"
+  },
+  {
+    "Congress": 5,
+    "Session": "S",
+    "Begin Date": "Jul 17, 1798",
+    "Adjourn Date": "Jul 19, 1798"
+  },
+  {
+    "Congress": 5,
+    "Session": 1,
+    "Begin Date": "May 15, 1797",
+    "Adjourn Date": "Jul 10, 1797"
+  },
+  {
+    "Congress": 5,
+    "Session": "S",
+    "Begin Date": "Mar 4, 1797",
+    "Adjourn Date": "Mar 4, 1797"
+  },
+  {
+    "Congress": 4,
+    "Session": 2,
+    "Begin Date": "Dec 5, 1796",
+    "Adjourn Date": "Mar 3, 1797"
+  },
+  {
+    "Congress": 4,
+    "Session": 1,
+    "Begin Date": "Dec 7, 1795",
+    "Adjourn Date": "Jun 1, 1796"
+  },
+  {
+    "Congress": 4,
+    "Session": "S",
+    "Begin Date": "Jun 8, 1795",
+    "Adjourn Date": "Jun 26, 1795"
+  },
+  {
+    "Congress": 3,
+    "Session": 2,
+    "Begin Date": "Nov 3, 1794",
+    "Adjourn Date": "Mar 3, 1795"
+  },
+  {
+    "Congress": 3,
+    "Session": 1,
+    "Begin Date": "Dec 2, 1793",
+    "Adjourn Date": "Jun 9, 1794"
+  },
+  {
+    "Congress": 3,
+    "Session": "S",
+    "Begin Date": "Mar 4, 1793",
+    "Adjourn Date": "Mar 4, 1793"
+  },
+  {
+    "Congress": 2,
+    "Session": 2,
+    "Begin Date": "Nov 5, 1792",
+    "Adjourn Date": "Mar 2, 1793"
+  },
+  {
+    "Congress": 2,
+    "Session": 1,
+    "Begin Date": "Oct 24, 1791",
+    "Adjourn Date": "May 8, 1792"
+  },
+  {
+    "Congress": 2,
+    "Session": "S",
+    "Begin Date": "Mar 4, 1791",
+    "Adjourn Date": "Mar 4, 1791"
+  },
+  {
+    "Congress": 1,
+    "Session": 3,
+    "Begin Date": "Dec 6, 1790",
+    "Adjourn Date": "Mar 3, 1791"
+  },
+  {
+    "Congress": 1,
+    "Session": 2,
+    "Begin Date": "Jan 4, 1790",
+    "Adjourn Date": "Aug 12, 1790"
+  },
+  {
+    "Congress": 1,
+    "Session": 1,
+    "Begin Date": "Mar 4, 1789",
+    "Adjourn Date": "Sep 29, 1789"
+  }
+]

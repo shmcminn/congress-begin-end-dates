@@ -79,7 +79,16 @@ for key, val in congresses.items():
 		d["end_date"] = ""
 
 
+	for datetype in ["begin_date", "end_date"]:
+		try:
+			d[datetype] = d[datetype].strftime("%m/%d/%Y")
+		except:
+			pass
+
+
 	congress_dates.append(d)
 
-for item in congress_dates:
-	print(item)
+
+with open("begin-end-full-congresses.json", "w") as ofile:
+	ofile.write(json.dumps(congress_dates))
+ofile.close()

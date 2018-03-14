@@ -71,11 +71,11 @@ for key, val in congresses.items():
 		else:
 			# print(item["Adjourn Date"])
 			try:
-				begin_date = datetime.strptime(item["Begin Date"], "%m/%d/%y")
+				begin_date = datetime.strptime(item["Begin Date"], "%m/%d/%Y")
 			except:
 				begin_date = datetime.strptime(item["Begin Date"], "%b %d, %Y")
 			try:
-				end_date = datetime.strptime(item["Adjourn Date"], "%m/%d/%y")
+				end_date = datetime.strptime(item["Adjourn Date"], "%m/%d/%Y")
 			except:
 				try:
 					end_date = datetime.strptime(item["Adjourn Date"], "%b %d, %Y")

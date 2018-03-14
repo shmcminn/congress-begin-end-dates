@@ -4,6 +4,8 @@ from datetime import datetime, date
 with open("congress-begin-end-dates.json", "r") as ofile:
 	json_data = json.loads(ofile.read())
 ofile.close()
+	
+congress_dates = []
 
 
 
@@ -15,20 +17,19 @@ for item in json_data:
 		congresses[item["Congress"]].append(item)
 	except:
 		congresses[item["Congress"]] = [item]
-	
-congress_dates = []
 
 
-new_century = True
+
 
 # adds full years to dates after 1900
+
+new_century = True
 
 for key, val in congresses.items():
 	for item in val:
 		d = {}
 		for date_type in ["Adjourn Date", "Begin Date"]:
 			date_split = item[date_type].split("/")
-			print(item[date_type])
 			try:
 				if date_split[2][0] == "9":
 					new_century = False
@@ -42,19 +43,6 @@ for key, val in congresses.items():
 				item[date_type] = date_split[0] + "/" + date_split[1]  + "/" + year_prefix + date_split[2]
 			except:
 				pass
-		print(item)
-
-
-		# adjourn_split = item["Adjourn Date"].split("/")
-		# begin_split = item["Begin Date"].split("/")
-		# if new_century == True:
-		# 	item["Adjourn Date"] =  adjourn_split[0] + "/" + adjourn_split[1] + "20" + adjourn_split[2]
-		# 	item["Begin Date"] =  adjourn_split[0] + "/" + adjourn_split[1] + "20" + adjourn_split[2]
-		# print(item["Adjourn Date"])
-		# print(item["Begin Date"])
-
-
-
 
 
 for key, val in congresses.items():
@@ -64,32 +52,34 @@ for key, val in congresses.items():
 	d["begin_date"] = ""
 	d["end_date"] = ""
 	for item in val:
-		d["begin_date"]
-		if d["begin_date"] == []:
-			d["begin_date"] = item["Begin Date"]
-			d["end_date"] = item["Adjourn Date"]
-		else:
-			# print(item["Adjourn Date"])
+		try:
+			begin_date = datetime.strptime(item["Begin Date"], "%m/%d/%Y")
+		except:
+			begin_date = datetime.strptime(item["Begin Date"], "%b %d, %Y")
+		try:
+			end_date = datetime.strptime(item["Adjourn Date"], "%m/%d/%Y")
+		except:
 			try:
-				begin_date = datetime.strptime(item["Begin Date"], "%m/%d/%Y")
+				end_date = datetime.strptime(item["Adjourn Date"], "%b %d, %Y")
 			except:
-				begin_date = datetime.strptime(item["Begin Date"], "%b %d, %Y")
-			try:
-				end_date = datetime.strptime(item["Adjourn Date"], "%m/%d/%Y")
-			except:
-				try:
-					end_date = datetime.strptime(item["Adjourn Date"], "%b %d, %Y")
-				except:
-					pass
-			# print(begin_date)
-			# try:
-			# 	print(end_date)
-			# except:
-			# 	print("No end date")
-			# print()
+				end_date = ""
+				pass
+
+		if d["begin_date"] == "":
+			d["begin_date"] = begin_date
+		elif begin_date < d["begin_date"]:
+			d["begin_date"] = begin_date	
+
+		if d["end_date"] == "" and type(end_date) != str:
+  			d["end_date"] = end_date
+		elif end_date > d["end_date"]:
+			d["end_date"] = end_date
+
+	if key == max(list(congresses.keys())):
+		d["end_date"] = ""
 
 
-
-
-		# print(item["Begin Date"])
 	congress_dates.append(d)
+
+for item in congress_dates:
+	print(item)

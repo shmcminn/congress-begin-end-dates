@@ -5,7 +5,7 @@ with open("congress-begin-end-dates.json", "r") as ofile:
 	json_data = json.loads(ofile.read())
 ofile.close()
 	
-congress_dates = []
+congress_dates = {}
 
 
 
@@ -86,7 +86,7 @@ for key, val in congresses.items():
 			pass
 
 
-	congress_dates.append(d)
+	congress_dates[d["congress"]] =  {"begin_date": d["begin_date"], "end_date": d["end_date"]}
 
 
 with open("begin-end-full-congresses.json", "w") as ofile:
